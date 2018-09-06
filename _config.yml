@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Yash Kedia
+bio: An Noob Developer
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -12,11 +12,11 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://yash-kedia.githb.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -51,7 +51,7 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: yashkedia011@gmail.com
 
 authors:
     johndoe:
